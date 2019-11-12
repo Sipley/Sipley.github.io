@@ -20,7 +20,7 @@ var store = [{
         "url": "http://localhost:4000/jekyll/update/successfully-defended-MS/",
         "teaser":"http://localhost:4000/assets/images/paradise-ridge.png"},{
         "title": "Made it to Moscow",
-        "excerpt":"Did I mention I bought a Tiny Home?! There were some difficulties coordinating its delivery to Moscow, which allowed me to add a couple additional days to my cross-country move to explore Yellowstone! My Dad met up with me after my move, and I am so grateful! He’s spent 40...","categories": ["jekyll","update"],
+        "excerpt":"And do did my Tiny Home! There were some difficulties coordinating its delivery to Moscow, which allowed me to add a couple additional days to my cross-country move to explore Yellowstone! My Dad met up with me after my move, and I am so grateful! He’s spent 40 years of...","categories": ["jekyll","update"],
         "tags": [],
         "url": "http://localhost:4000/jekyll/update/made-it-to-moscow/",
         "teaser":"http://localhost:4000/assets/images/paradise-ridge.png"},{

@@ -4,7 +4,7 @@ title:  "Made it to Moscow"
 date:   2019-08-23 13:14:41 -0800
 categories: jekyll update
 ---
-Did I mention I bought a Tiny Home?!  
+And do did my Tiny Home!
 
 There were some difficulties coordinating its delivery to Moscow, which allowed me to add a couple additional days to my cross-country move to explore Yellowstone! 
 
