@@ -6,6 +6,8 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Outreach"
+    url: /outreach.html
   - title: "Blog"
     url: /blog/
   # - title: "Sample Posts"
