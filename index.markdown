@@ -7,6 +7,4 @@ header:
 permalink: /index.html
 ---
 
-# PhD Student
-
-Evolutionary 
+Evolutionary biologist interested in coevolutionary dynamics, both theoretical and empirical. 
