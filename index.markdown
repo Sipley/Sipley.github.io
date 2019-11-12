@@ -8,3 +8,7 @@ permalink: /index.html
 ---
 
 Evolutionary biologist interested in coevolutionary dynamics, both theoretical and empirical. 
+
+When I’m not science-ing or doing outreach, I like to support my local art scene, practice Roller Derby, and facilitate difficult discussions on stigmatized issues. Feel free to look around here to learn more about my research, teaching philosophy, and other cool things I’ve been up to!
+
+If you're looking for my CV, you can find it [here](/assets/images/Sipley_CV_draft.pdf)
