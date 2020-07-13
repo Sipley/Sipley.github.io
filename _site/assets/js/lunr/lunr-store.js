@@ -20,7 +20,7 @@ var store = [{
         "url": "http://localhost:4000/jekyll/update/successfully-defended-MS/",
         "teaser":"http://localhost:4000/assets/images/paradise-ridge.png"},{
         "title": "Made it to Moscow",
-        "excerpt":"And do did my Tiny Home! There were some difficulties coordinating its delivery to Moscow, which allowed me to add a couple additional days to my cross-country move to explore Yellowstone! My Dad met up with me after my move, and I am so grateful! He’s spent 40 years of...","categories": ["jekyll","update"],
+        "excerpt":"And so did my Tiny Home! There were some difficulties coordinating its delivery to Moscow, which allowed me to add a couple additional days to my cross-country move to explore Yellowstone! My Dad met up with me after my move, and I am so grateful! He’s spent 40 years of...","categories": ["jekyll","update"],
         "tags": [],
         "url": "http://localhost:4000/jekyll/update/made-it-to-moscow/",
         "teaser":"http://localhost:4000/assets/images/paradise-ridge.png"},{
@@ -28,4 +28,9 @@ var store = [{
         "excerpt":"16-hour pedagogical training down! I just completed the two-day instructor training through The Carpentries alongside a few other colleages from Bioinformatics and Computational Biology. It was so refreshing to talk pedagogy. I’m excited about helping the University of Idaho host a few Software and Data Carpentries workshops in the Spring...","categories": ["jekyll","update"],
         "tags": [],
         "url": "http://localhost:4000/jekyll/update/data-carpentries-training/",
+        "teaser":"http://localhost:4000/assets/images/paradise-ridge.png"},{
+        "title": "What do you do?",
+        "excerpt":"The question that simultaneusly elates and worries the budding scientist. Curiosity signifies interest. Best case scenario, I answer well and help establish a safe space for greater curiosity. Worst case scenario, I answer poorly and stir up feelings of fear and resentment and accidentally help justify unsubstantiated biases. One time...","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "http://localhost:4000/jekyll/update/intro/",
         "teaser":"http://localhost:4000/assets/images/paradise-ridge.png"}]
