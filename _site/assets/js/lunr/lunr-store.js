@@ -32,5 +32,5 @@ var store = [{
         "title": "What do you do?",
         "excerpt":"The question that simultaneusly elates and worries the budding scientist. Curiosity signifies interest. Best case scenario, I answer well and help establish a safe space for greater curiosity. Worst case scenario, I answer poorly and stir up feelings of fear and resentment and accidentally help justify unsubstantiated biases. One time...","categories": ["jekyll","update"],
         "tags": [],
-        "url": "http://localhost:4000/jekyll/update/intro/",
+        "url": "http://localhost:4000/jekyll/update/what-do-you-do/",
         "teaser":"http://localhost:4000/assets/images/paradise-ridge.png"}]
